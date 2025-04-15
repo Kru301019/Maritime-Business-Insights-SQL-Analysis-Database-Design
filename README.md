@@ -1,11 +1,4 @@
-# Note on Project History
-This project was initially created earlier as part of my coursework. The original version of the project exists in an earlier repository. However, that repository was not well-structured, and the files were not properly organized for ease of readability and navigation.
-
-In this update, I have restructured the repository, organized the code, and added the necessary documentation to improve its clarity and accessibility. The goal is to make it easier for others to understand the project flow and logic while also providing better support for future development and contributions.
-
-The older version of the repository can still be found [here](https://github.com/JamesWicks01/SolentBoats_Database_Extended.git). Feel free to explore the project in both repositories and refer to the detailed README for a better understanding of the tasks and their implementation.
-
-# Solent Boat Management System
+# Maritime Business Insights: SQL Analysis & Database Design
 A comprehensive database solution for efficient boat management.
 
 Table of Contents
